@@ -1,2 +1,2 @@
 # hello-world
-beginner at git-hub but not at coding
+Sample java code used to determine palinedromes
